@@ -13,8 +13,10 @@ $$N(t) = N_0 e^{-\lambda t}$$
 Where:
 - $N(t)$ = intact DNA base pairs at time $t$
 - $N_0$ = initial DNA quantity  
-- $\lambda = \frac{\ln(2)}{521}$ = decay constant (per year)
+- $\lambda = \frac{\ln(2)}{521}$ = decay constant (per year at 13.1°C)
 - $t$ = years since death
+
+**Note**: DNA half-life of 521 years is measured at 13.1°C. Colder temperatures (e.g., -5°C in permafrost) extend this significantly (~158,000 years), while warmer temperatures accelerate decay.
 
 **Preservation Factors**:
 1. **Temperature**: Cold = better preservation (exponential improvement)

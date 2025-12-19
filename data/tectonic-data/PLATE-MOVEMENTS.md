@@ -9,6 +9,8 @@ Analysis of current tectonic plate movements, earthquake patterns, volcanic acti
 
 ### Major Plates and Movement Rates
 
+**Note**: Velocities represent current rates (2020-2025) measured via GPS and satellite geodesy. Plate velocities can vary over geological timescales.
+
 | Plate | Direction | Velocity (cm/year) | Notable Boundaries |
 |-------|-----------|-------------------|-------------------|
 | Pacific | Northwest | 7-10 | Subducts under Americas, Asia |

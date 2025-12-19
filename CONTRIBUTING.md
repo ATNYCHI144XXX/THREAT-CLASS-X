@@ -175,7 +175,7 @@ When citing new research:
 #### Example
 
 ```markdown
-**Citation**: Smith, J. et al. (2025). "Accelerated magnetic pole migration and reversal indicators." *Nature Geoscience*, 18(3), 234-241. DOI: 10.1038/s41561-025-01234-5
+**Citation**: Smith, J. et al. (2024). "Accelerated magnetic pole migration and reversal indicators." *Nature Geoscience*, 17(3), 234-241. DOI: 10.1038/s41561-024-01234-5
 
 **Summary**: Analysis of ESA Swarm data shows North Magnetic Pole acceleration has increased to 60 km/year (up from 55 km/year in 2020). New modeling suggests 20% probability of reversal onset within 500 years, higher than previous 10% estimate.
 

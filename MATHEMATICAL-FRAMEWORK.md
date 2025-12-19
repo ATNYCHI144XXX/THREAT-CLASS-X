@@ -223,7 +223,7 @@ Where $\lambda = 1/\bar{T}$ and $\bar{T}$ = mean interval between reversals (~25
 **Current** ($t = 780,000$ years since last):
 $$P = 1 - e^{-780000/250000} = 0.959$$
 
-**Interpretation**: 96% cumulative probability, BUT reversals are memoryless (past doesn't constrain future).
+**Interpretation**: This 96% represents the cumulative probability that *would* have been experienced over 780,000 years. However, reversals follow a memoryless Poisson process - the fact that 780,000 years have passed does NOT increase the probability of reversal in the next year. Each time interval has the same intrinsic probability. The term "overdue" is statistically misleading.
 
 **Better Model**: Include field strength as covariate
 $$\lambda(B) = \lambda_0 e^{-\beta B}$$

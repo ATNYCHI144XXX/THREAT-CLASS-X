@@ -17,12 +17,14 @@ Comprehensive catalog of ancient sites with unusual properties, unexplained cons
 - Largest blocks: 80 tonnes (King's Chamber)
 - Alignment: 3 arcminutes from true north
 
-**Mathematical Encoding**:
+**Mathematical Relationships**:
 $$\tan(51°52') = \frac{h}{b/2} = \frac{4}{\pi} \approx 1.273$$
 
-- Slope angle 51°52' relates to π
-- Perimeter/height ratio = 2π
-- Built-in cubit: 0.5236 m (π/6 meters)
+- Slope angle 51°52' approximates 4/π ratio
+- Perimeter/height ratio ≈ 2π
+- Built-in cubit: 0.5236 m (≈ π/6 meters)
+
+**Note**: Whether these π relationships are intentional encoding or coincidental remains debated. Ancient measurement precision (±several arcminutes) should be considered when evaluating mathematical claims.
 
 **Anomalies**:
 - Precision of alignment (pre-compass)
